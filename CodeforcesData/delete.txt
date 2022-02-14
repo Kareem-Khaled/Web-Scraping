@@ -1,0 +1,6 @@
+contestants
+history
+solved
+*sheets
+*problems
+*wrongs
