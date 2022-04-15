@@ -23,5 +23,5 @@
 
  <h3>- <em>Tools and technologies used: Python, Web-Scraping, Beautifulsoup, Selenium, Telegram-API, SQLite</h3>
 ```diff
- - in text 
- ```
+- asd
+```
