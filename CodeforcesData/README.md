@@ -1,6 +1,3 @@
-
- Tools and technologies used: Python, Web-Scraping, Selenium, Telegram-API, SQLite.
-
 <h1>Codeforces Data Collector</h1>
 <h3><em>How it is work?</em></h3>
 <ol>
