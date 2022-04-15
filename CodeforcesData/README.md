@@ -1,5 +1,5 @@
 <h1>Codeforces Data Collector</h1>
-<h3><em>How it is work?</em></h3>
+<h3><em>- How it is work?</em></h3>
 <ol>
     <li>Put your trainees handles <em>(in separate lines)</em> in <strong>"contestants.txt"</strong></li>
     <li>Put groups or sheets URL you want to get information about <em>(in separate lines)</em> in <strong>"sheets.txt"</strong></li>
