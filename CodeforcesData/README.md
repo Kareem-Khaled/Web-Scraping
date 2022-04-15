@@ -3,7 +3,7 @@
 <ol>
     <li>Put your trainees handles <em>(in separate lines)</em> in <strong>"contestants.txt"</strong></li>
     <li>Put groups or sheets URL you want to get information about <em>(in separate lines)</em> in <strong>"sheets.txt"</strong></li>
-    <li>Run scripts as ordered
+    <li>Run scripts in order:
         <ol>
             <li>Create Database.py</li>
             <li>Insert_Sheets.py</li>
