@@ -14,7 +14,7 @@
 </ol>
 
 <h3>After you run <strong>Get_Solutions.py</strong> you will see the cmd window like this 👇</h3>
-![scraping](https://user-images.githubusercontent.com/53629881/163649012-1b1b40af-105a-434c-ad8b-d70f8056a39a.PNG)
+![scraping](https://user-images.githubusercontent.com/53629881/163649770-738d891d-386e-4f62-a6f7-3a5bc532c9d6.PNG)
 
 <h3>After finishing it will close by itself and you can see the result in <strong>app.db</strong> </h3>
 <h3 style="color:green;">It will return to you for each trainee the number of accepted solutions he had get</h3>
