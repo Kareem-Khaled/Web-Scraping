@@ -14,7 +14,8 @@
 </ol>
 
 <h3><em>- After you run <strong>Get_Solutions.py</strong> you will see the cmd window like this 👇</em></h3>
-![278547489_1318354661994718_6446737697660062007_n](https://user-images.githubusercontent.com/53629881/163649962-ca117058-e3cd-43ce-ab1c-93a3a9546758.jpg)
+
+https://user-images.githubusercontent.com/53629881/163650143-94f9d0a3-ccfc-4a17-ad09-fee8eb8218f9.PNG
 
 <h3><em>- After finishing it will close by itself and you can see the result in <strong>app.db</strong></em></h3>
 
