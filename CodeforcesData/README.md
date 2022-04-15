@@ -22,5 +22,6 @@
 <h3 style="color:green;">It will return to you for each trainee the number of accepted solutions he had get</h3>
 
 <p>You can edit <strong>Telegram_Bot.py</strong> and put your <em>telegram group id<em>to send some notifications and you can custome it as you want</p>
-  
+  + text in green
+
  <p><em>Tools and technologies used: <strong>Telegram_Bot.py</strong> Python, Web-Scraping, Selenium, Telegram-API, SQLite.</p>
