@@ -15,7 +15,7 @@
 
 <h3><em>- After you run <strong>Get_Solutions.py</strong> you will see the cmd window like this 👇</em></h3>
 
-https://user-images.githubusercontent.com/53629881/163650143-94f9d0a3-ccfc-4a17-ad09-fee8eb8218f9.PNG
+![scraping](https://user-images.githubusercontent.com/53629881/163650143-94f9d0a3-ccfc-4a17-ad09-fee8eb8218f9.PNG)
 
 <h3><em>- After finishing it will close by itself and you can see the result in <strong>app.db</strong></em></h3>
 
