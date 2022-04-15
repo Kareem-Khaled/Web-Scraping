@@ -22,4 +22,6 @@
 <h4>- <em>Note</em> You can edit <em>"Telegram_Bot.py"</em> and put your <em>telegram group id<em> to send some notifications and you can custome it as you want</h4>
 
  <h3>- <em>Tools and technologies used: Python, Web-Scraping, Beautifulsoup, Selenium, Telegram-API, SQLite</h3>
-
+```diff
+ - in text 
+ ```
