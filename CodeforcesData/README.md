@@ -25,5 +25,5 @@
 
      
 ```diff
-- Make sure that you have a "chromedriver" in the same version with your "Google Chrome Browser"!!!!
+- Make sure that you have a "chromedriver" in the same version as your "Google Chrome Browser"!!!!
 ```
