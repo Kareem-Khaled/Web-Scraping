@@ -19,7 +19,7 @@
 
 <h4>After finishing it will close by itself and you can see the results in <em>"app.db"</em> you will see for each trainee the number of accepted solutions he had get and when was the last submit!</h4>
 
-<h4>- <em>Note</em> You can edit <strong>Telegram_Bot.py</strong> and put your <em>telegram group id<em> to send some notifications and you can custome it as you want</h4>
+<h4>- <em>Note</em> You can edit <em>"Telegram_Bot.py"</em> and put your <em>telegram group id<em> to send some notifications and you can custome it as you want</h4>
 
  <h3>- <em>Tools and technologies used: Python, Web-Scraping, Selenium, Telegram-API, SQLite</h3>
 
