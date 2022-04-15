@@ -23,7 +23,7 @@
 
  <h3>- <em>Tools and technologies used: Python, Web-Scraping, Beautifulsoup, Selenium, Telegram-API, SQLite</h3>
 ```diff
-- text in red asd
+- text in red
 + text in green
 ! text in orange
 # text in gray
