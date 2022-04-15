@@ -25,9 +25,5 @@
 
      
 ```diff
-- a
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- Make sure that you have a "chromedriver" in the same version with your "Google Chrome Browser"!!!!
 ```
