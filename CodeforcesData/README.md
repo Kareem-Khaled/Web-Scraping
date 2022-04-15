@@ -25,13 +25,3 @@
 
  <p><em>Tools and technologies used: <strong>Telegram_Bot.py</strong> Python, Web-Scraping, Selenium, Telegram-API, SQLite.</p>
 
-     
-You can use the diff language tag to generate some colored text:
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
