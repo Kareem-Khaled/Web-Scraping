@@ -17,7 +17,7 @@
 
 ![scraping](https://user-images.githubusercontent.com/53629881/163650691-4f71edbd-8102-4c7e-9082-4f69894759c6.PNG)
 
-<h3>After finishing it will close by itself and you can see the result in <strong>app.db</strong>you will see for each trainee the number of accepted solutions he had get and When was the last submit!</h3>
+<h4>After finishing it will close by itself and you can see the result in <strong>app.db</strong>you will see for each trainee the number of accepted solutions he had get and When was the last submit!</h4>
 
 <p>You can edit <strong>Telegram_Bot.py</strong> and put your <em>telegram group id<em>to send some notifications and you can custome it as you want</p>
 
