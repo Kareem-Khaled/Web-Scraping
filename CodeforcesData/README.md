@@ -17,9 +17,9 @@
 
 ![scraping](https://user-images.githubusercontent.com/53629881/163650691-4f71edbd-8102-4c7e-9082-4f69894759c6.PNG)
 
-<h4>After finishing it will close by itself and you can see the results in <strong>app.db</strong>you will see for each trainee the number of accepted solutions he had get and When was the last submit!</h4>
+<h4>After finishing it will close by itself and you can see the results in <em>app.db</em> you will see for each trainee the number of accepted solutions he had get and when was the last submit!</h4>
 
-<p>You can edit <strong>Telegram_Bot.py</strong> and put your <em>telegram group id<em>to send some notifications and you can custome it as you want</p>
+<h4>- <em>Note</em> You can edit <strong>Telegram_Bot.py</strong> and put your <em>telegram group id<em> to send some notifications and you can custome it as you want</h4>
 
- <p><em>Tools and technologies used: <strong>Telegram_Bot.py</strong> Python, Web-Scraping, Selenium, Telegram-API, SQLite.</p>
+ <h3>- <em>Tools and technologies used: <strong>Telegram_Bot.py</strong> Python, Web-Scraping, Selenium, Telegram-API, SQLite.</h3>
 
